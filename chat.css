@@ -1,0 +1,15 @@
+.login_div {
+	background: rgb(117, 133, 213);
+	float:right;
+	border-radius: 15px;
+    padding: 20px;
+    padding-right: 30px;
+}
+#background{
+    background-color: blue;
+}
+.logo{
+    border-radius: 1000px;
+    width:50px;
+    height: 50px;
+}
